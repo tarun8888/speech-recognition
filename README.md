@@ -1,21 +1,31 @@
 # speech-recognition
+
 This is a simple use of the speech recognition library and pyaudio library to process the spoken sound into text.
 
 To work perfectly install
 
-1) Latest python
+1) Download and install latest python
 
-2) install speechrecognition using following command
+2) Install speechrecognition using following command
       
-      " pip install speechrecognition " or " python -m pip install speechrecognition "
+            pip install speechrecognition
+            or
+            python -m pip install speechrecognition 
 
-3) install pyaudio using following command
+3) Download and install microsoft visual c++ for python 
 
-      " pip install pyaudio " or "python -m pip install pyaudio "
+4) Install pyaudio using following command
+
+            pip install pyaudio 
+            or 
+            python -m pip install pyaudio
+            or
+            conda install -c anaconda pyaudio
       
-       if any error occurs with pyaudio, try installing it using anaconda
+   if facing any errors, try installing it using anaconda prompt                           
+   
 
-4) run speech.py python code :)
+5) Run speech.py python code :)
 
 
       
